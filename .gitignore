@@ -1,0 +1,11 @@
+# 参考卡与中间产物，不进版本库
+/龙族remake：世界的重启.json
+/build/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+~$*
+
+# 代理工作区（技能备份、临时状态），不进版本库
+/.workbuddy/
